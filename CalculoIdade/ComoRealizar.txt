@@ -1,0 +1,1 @@
+﻿Faça um algoritmo que leia o ano de nascimento de uma pessoa, calcule e mostre sua idade aproximada.

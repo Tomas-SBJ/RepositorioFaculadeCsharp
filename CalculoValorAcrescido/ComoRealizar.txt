@@ -1,0 +1,5 @@
+﻿
+Faça um algoritmo que leia um determinado valor real, calcule e mostre este valor acrescido de 15,8%
+Observação 1: Acrescido = Valor + (Valor * (15.8/100));
+Observação 2: Caso de teste 1486,45 deve gerar como resultado 1721,3091.
+Observação 3: Necessário pesquisar como tratar um float utilizando vírgula.

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicios
+namespace AreaTriangulo
 {
      public static class AreaTriangulo
      {

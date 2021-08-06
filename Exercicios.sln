@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalcularIdadeAproximada", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoIdade", "CalculoIdade\CalculoIdade.csproj", "{53DC3049-8D33-46D0-BFFF-CDDB53E22FA1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalcularValorAcrescido", "CalcularValorAcrescido", "{FEC2C963-F547-443F-B812-D50D8F31A3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoValorAcrescido", "CalculoValorAcrescido\CalculoValorAcrescido.csproj", "{A47EC9E0-74EB-4680-84CF-D887D2437591}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{53DC3049-8D33-46D0-BFFF-CDDB53E22FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53DC3049-8D33-46D0-BFFF-CDDB53E22FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53DC3049-8D33-46D0-BFFF-CDDB53E22FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47EC9E0-74EB-4680-84CF-D887D2437591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47EC9E0-74EB-4680-84CF-D887D2437591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47EC9E0-74EB-4680-84CF-D887D2437591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47EC9E0-74EB-4680-84CF-D887D2437591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DD63FCD1-3346-406A-B53B-A86A6B58A137} = {98796FE6-E40E-47D3-BF45-7B73CF4FB4B1}
 		{53DC3049-8D33-46D0-BFFF-CDDB53E22FA1} = {61BFAB63-888A-4F6E-AE50-64A76F60CDA1}
+		{A47EC9E0-74EB-4680-84CF-D887D2437591} = {FEC2C963-F547-443F-B812-D50D8F31A3FF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9AD4AF9D-449C-4ED0-A68A-9DB84C90EF0C}

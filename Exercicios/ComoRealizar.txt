@@ -1,0 +1,1 @@
+﻿Faça um algoritmo que receba o valor da base e o valor da altura de um triângulo. Calcule e mostre a área deste triângulo.
