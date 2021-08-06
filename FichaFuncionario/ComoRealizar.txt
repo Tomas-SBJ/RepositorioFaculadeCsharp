@@ -1,0 +1,5 @@
+﻿ Faça um algoritmo que leia os dados da ficha do funcionário, calcule:
+    1- O salário bruto (hora * valorhora + dependente * valordependente)
+    2- Valor do desconto de INSS (percentual sobre o salario bruto);
+    3- Valor de desconto de IR (percentual sobre o salario bruto);
+    4- Valor liquido do salário deste funcionário (Salario Bruto - INSS - IR).
