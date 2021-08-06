@@ -27,6 +27,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeitorDeTresNumeros", "Leit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeitorTresNumeros", "LeitorTresNumeros\LeitorTresNumeros.csproj", "{E250BB82-94B3-43B5-8A95-85E456DCF743}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalcularMediaAritmetica", "CalcularMediaAritmetica", "{870C9215-D98B-4932-8745-C58B6915ABDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAritmetica", "MediaAritmetica\MediaAritmetica.csproj", "{55CC4284-888C-47FD-943E-00264A0238CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,10 @@ Global
 		{E250BB82-94B3-43B5-8A95-85E456DCF743}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E250BB82-94B3-43B5-8A95-85E456DCF743}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E250BB82-94B3-43B5-8A95-85E456DCF743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CC4284-888C-47FD-943E-00264A0238CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CC4284-888C-47FD-943E-00264A0238CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CC4284-888C-47FD-943E-00264A0238CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CC4284-888C-47FD-943E-00264A0238CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +76,7 @@ Global
 		{E42B0E7C-9F48-4ED5-8584-BE96358C9A2A} = {37ED99D2-B1E0-4EEE-9A39-0039DB3FA22C}
 		{88777415-8A7A-48D6-B955-6565FF80109D} = {3983C3D8-1531-4709-AA5E-FAFB125376D3}
 		{E250BB82-94B3-43B5-8A95-85E456DCF743} = {E9888C71-B18E-4FD7-A24E-385E35399D9D}
+		{55CC4284-888C-47FD-943E-00264A0238CD} = {870C9215-D98B-4932-8745-C58B6915ABDE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9AD4AF9D-449C-4ED0-A68A-9DB84C90EF0C}

@@ -13,10 +13,10 @@ namespace LeitorTresNumeros
             Console.WriteLine("Digite seu primeiro número:");
             num1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Digite seu primeiro número:");
+            Console.WriteLine("Digite seu segundo número:");
             num2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Digite seu primeiro número:");
+            Console.WriteLine("Digite seu terceiro número:");
             num3 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Resultado da operação (V1 + V2): " + (num1 + num2));
