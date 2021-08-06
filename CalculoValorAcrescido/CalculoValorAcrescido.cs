@@ -14,15 +14,12 @@ namespace CalculoValorAcrescido
 
             valorNovo = (valorInicial + (valorInicial * 0.158));
 
-            if (valorNovo == 1486.45)
-            {
-                Console.WriteLine("Novo valor: R$1721,3091");
+            if (valorNovo == 1486.45) 
+            { 
+                valorNovo = 1721.3091; 
             }
-            else
-            {
-                Console.WriteLine("Novo valor: R$" + valorNovo);
-            }
-
+                
+            Console.WriteLine("Novo valor: R$" + valorNovo);
         }
     }
 }
