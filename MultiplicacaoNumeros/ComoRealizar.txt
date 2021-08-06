@@ -1,0 +1,1 @@
+﻿Faça um algoritmo para mostrar o resultado da multiplicação de dois números.

@@ -1,0 +1,1 @@
+﻿Faça um algoritmo que leia dois números inteiros, execute e mostre as quatro operações aritméticas básicas.
